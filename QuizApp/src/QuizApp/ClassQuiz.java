@@ -146,9 +146,9 @@ public class ClassQuiz {
                     System.out.println("Congratulations!.. You have passed all the levels and won the Big bounty of :" + bounty);
                     System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
                     System.out.println("@                                                                                   @");
-                    System.out.println("@                        Congratulations! "+p.name+"                                    @");
+                    System.out.println("@                        Congratulations! "+p.name+"                                @");
                     System.out.println("@                                                                                   @");
-                    System.out.println("@                       Total Bounty Earned "+bounty+"                                   @");
+                    System.out.println("@                       Total Bounty Earned "+bounty+"                              @");
                     System.out.println("@                                                                                   @");
                     System.out.println("@                                                                                   @");
                     System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
